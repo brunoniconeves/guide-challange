@@ -11,3 +11,11 @@ O submódulo guide-backend-challange contém o código para compilar e rodar o b
 Caso tenha problemas em utilizar submódulos, é possível acessar diretamente o repositório do submódulo em:
 https://github.com/brunoniconeves/guide-backend-challange 
 
+# Clonando os repositórios
+Primeiramente clone o repositório princpal com os submódulos (este =] )
+Para isso, deve usar o comando abaixo com a flag --recursive
+
+'git clone --recursive https://github.com/brunoniconeves/guide-challange'
+
+Este comando garante que os submódulos serão clonados. Para verificar, basta entrar em cada diretório do respectivo submódulo e verificar os conteúdos destes.
+
