@@ -19,3 +19,5 @@ Para isso, deve usar o comando abaixo com a flag --recursive
 
 Este comando garante que os submódulos serão clonados. Para verificar, basta entrar em cada diretório do respectivo submódulo e verificar os conteúdos destes.
 
+# Para facilitar a leitura
+Documentei separadamente o frontend e o backend. Cada repositório tem as respectivas instruções para executar os projetos.
