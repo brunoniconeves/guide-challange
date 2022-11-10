@@ -1,0 +1,6 @@
+[submodule "guide-backend-challange"]
+	path = guide-backend-challange
+	url = https://github.com/brunoniconeves/guide-backend-challange
+[submodule "guide-flutter-challange"]
+	path = guide-flutter-challange
+	url = https://github.com/brunoniconeves/guide-flutter-challange
